@@ -1,4 +1,4 @@
-import "../styles/styles.css";
+import "./Feedback.css";
 import React, { useMemo, useState, useRef, useCallback } from "react";
 
 export default function Feedback() {
